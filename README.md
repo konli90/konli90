@@ -1,16 +1,18 @@
-### Hi there 👋
+# Introduction
+Hi, My name is Kon Lipenga. As a Data Analyst, I thoroughly enjoy utilizing Python, R, SQL, Excel, and data visualization tools such as Power BI and Tableau
 
-<!--
-**konli90/konli90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#💡 Skills
 
-Here are some ideas to get you started:
+    Data preparation/data querying, quality assurance, and analysis
+    Exploratory data analysis
+    Dashboard development, data storytelling and reporting
+    
+#🛠️ Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
+    R: dplyr, tidyverse, robotoolbox
+    Python: NumPy, Pandas
+    Visualisation: PowerBi, Tableau, Matplotlib, Seaborn
+    
+#🔍 Still curious about me?
+    Connect with me on ![LinkedIn](https://www.linkedin.com/in/kon-lipenga-a0643239/)
