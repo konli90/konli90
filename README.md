@@ -15,4 +15,4 @@ Hi, My name is Kon Lipenga. | Data Analyst | Leveraging Data to Improve Decision
     Visualisation: PowerBi, Tableau, Matplotlib, Seaborn
     
 # 🔍 Still curious about me?
-    Connect with me on ![LinkedIn](https://www.linkedin.com/in/kon-lipenga-a0643239/)
+    Connect with me on [LinkedIn](https://www.linkedin.com/in/kon-lipenga-a0643239/)
