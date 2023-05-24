@@ -1,5 +1,5 @@
 # Introduction
-Hi, My name is Kon Lipenga. As a Data Analyst, I thoroughly enjoy utilizing Python, R, SQL, Excel, and data visualization tools such as Power BI and Tableau
+Hi, My name is Kon Lipenga. | Data Analyst | Leveraging Data to Improve Decision-Making
 
 # 💡 Skills
 
