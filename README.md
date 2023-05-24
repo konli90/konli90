@@ -16,3 +16,4 @@ Hi, My name is Kon Lipenga. | Data Analyst | Leveraging Data to Improve Decision
     
 ## 🔍 Still curious about me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kon-lipenga-a0643239/)
+- Checkout my [Portfolio](https://konli90.github.io/index.html)
